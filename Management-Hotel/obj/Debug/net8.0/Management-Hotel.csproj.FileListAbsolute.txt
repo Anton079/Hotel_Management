@@ -1,0 +1,14 @@
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\bin\Debug\net8.0\Management-Hotel.exe
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\bin\Debug\net8.0\Management-Hotel.deps.json
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\bin\Debug\net8.0\Management-Hotel.runtimeconfig.json
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\bin\Debug\net8.0\Management-Hotel.dll
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\bin\Debug\net8.0\Management-Hotel.pdb
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.AssemblyInfoInputs.cache
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.AssemblyInfo.cs
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.dll
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\refint\Management-Hotel.dll
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.pdb
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\Management-Hotel.genruntimeconfig.cache
+C:\Users\Horia\source\repos\Management-Hotel\Management-Hotel\obj\Debug\net8.0\ref\Management-Hotel.dll

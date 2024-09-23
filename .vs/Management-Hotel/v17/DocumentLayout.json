@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\viewstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\viewstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\serviceperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\serviceperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\serviceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\serviceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|c:\\users\\horia\\source\\repos\\management-hotel\\management-hotel\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F2B6B8-5DB7-489A-89A6-046D945CE2B1}|Management-Hotel\\Management-Hotel.csproj|solutionrelative:management-hotel\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewStaff.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ViewStaff.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\ViewStaff.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ViewStaff.cs",
+              "RelativeToolTip": "Management-Hotel\\ViewStaff.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:26:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ViewCustomer.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\ViewCustomer.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ViewCustomer.cs",
+              "RelativeToolTip": "Management-Hotel\\ViewCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:43:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ServiceRoom.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\ServiceRoom.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ServiceRoom.cs",
+              "RelativeToolTip": "Management-Hotel\\ServiceRoom.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwMIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:06:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Room.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\Room.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Room.cs",
+              "RelativeToolTip": "Management-Hotel\\Room.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:12:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicePerson.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ServicePerson.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\ServicePerson.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\ServicePerson.cs",
+              "RelativeToolTip": "Management-Hotel\\ServicePerson.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:06:25.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Person.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\Person.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Person.cs",
+              "RelativeToolTip": "Management-Hotel\\Person.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:51:14.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Staff.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\Staff.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Staff.cs",
+              "RelativeToolTip": "Management-Hotel\\Staff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:52:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Customer.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\Customer.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Customer.cs",
+              "RelativeToolTip": "Management-Hotel\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:52:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Management-Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\Management-Hotel\\Management-Hotel\\Program.cs",
+              "RelativeToolTip": "Management-Hotel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:47:51.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
